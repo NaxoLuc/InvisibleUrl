@@ -2,4 +2,4 @@
 Call Urls whitout window
 
 
-Usage: InvisibleURL.exe <URL>
+Usage: InvisibleURL.exe [URL]
